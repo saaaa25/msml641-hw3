@@ -47,6 +47,7 @@ This notebook implements and evaluates multiple sequence models (RNN, LSTM, BiLS
 |-----------|----------------|-----|-------|
 | Setup & Data Loading | 1-2 min | 2-3 min | One-time, includes package installation |
 | Model Training (all configurations) | 15-20 min | 3-4 hrs | Depends on sequence length & batch size |
+
 Recommended: Use GPU for faster execution 
 
 ### Output Files
