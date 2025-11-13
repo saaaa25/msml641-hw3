@@ -1,4 +1,4 @@
-# NLP Homework 3: Sequence Models on GPU
+# NLP Homework 3: Comparative Analysis of RNN Architectures for Sentiment Classification
 
 ## Overview
 
